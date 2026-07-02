@@ -8,7 +8,7 @@ By installing and using our Application, you signify that you have read, underst
 
 ---
 
-## 🔒 1. Our Privacy-First Commitment
+## 1. Our Privacy-First Commitment
 
 Unlike traditional applications, **TeeTime Assist operates 100% offline**.
 *   **Zero Internet Permission**: The Application requests absolutely **NO network (internet) permissions**.
@@ -17,7 +17,7 @@ Unlike traditional applications, **TeeTime Assist operates 100% offline**.
 
 ---
 
-## ⚙️ 2. Permissions We Request & Why
+## 2. Permissions We Request & Why
 
 TeeTime Assist requires specific system permissions to function as an assistive hardware simulation utility. All permissions are processed entirely on your local device:
 
@@ -35,7 +35,7 @@ TeeTime Assist requires specific system permissions to function as an assistive 
 
 ---
 
-## 💾 3. Data We Store Locally
+## 3. Data We Store Locally
 
 TeeTime Assist collects **no personal identification information** (such as names, phone numbers, email addresses, or location data).
 
@@ -44,7 +44,7 @@ TeeTime Assist collects **no personal identification information** (such as name
 
 ---
 
-## 🌍 4. Global Regulatory Compliance
+## 4. Global Regulatory Compliance
 
 ### **A. GDPR (General Data Protection Regulation)**
 Since TeeTime Assist does not collect, process, or transmit personal data of European Economic Area (EEA) residents, we fully comply with GDPR standards by design. There is no personal data to retrieve, modify, or delete.
