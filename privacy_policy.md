@@ -2,7 +2,7 @@
 
 **Last Updated:** July 2, 2026
 
-Aryan Kumar (“we,” “our,” or “us”) is committed to protecting your privacy. This Privacy Policy explains how data is handled by our mobile application, **TeeTime Assist - Control Hub** (referred to as the “Service” or “Application”). 
+Aryan (Tusaryan) (“we,” “our,” or “us”) is committed to protecting your privacy. This Privacy Policy explains how data is handled by our mobile application, **TeeTime Assist - Control Hub** (referred to as the “Service” or “Application”). 
 
 By installing and using our Application, you signify that you have read, understood, and agree to the policies described herein. If you do not agree with this policy, please do not use the Application.
 
@@ -61,6 +61,6 @@ TeeTime Assist is targeted to users aged **18 and older**. We do not knowingly c
 
 If you have any questions or feedback regarding this Privacy Policy, please contact us:
 
-*   **Developer**: Aryan Kumar
+*   **Developer**: Aryan (Tusaryan)
 *   **Email**: [aryankumar040102@gmail.com](mailto:aryankumar040102@gmail.com)
 *   **Jurisdiction**: Ramgarh, Jharkhand, India

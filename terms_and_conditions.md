@@ -33,7 +33,7 @@ Your privacy is important to us. Our data protection practices are governed by o
 
 ## 4. Limitation of Liability
 
-*   **No Developer Liability**: To the maximum extent permitted by applicable law, the developer (Aryan Kumar) shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of data, hardware malfunction, battery degradation, screen burn-in (arising from screen dimming settings), or other losses resulting from:
+*   **No Developer Liability**: To the maximum extent permitted by applicable law, the developer (Aryan (Tusaryan)) shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of data, hardware malfunction, battery degradation, screen burn-in (arising from screen dimming settings), or other losses resulting from:
     1.  Your access to, use of, or inability to use the Application.
     2.  Any operational failures of your device while using the Application.
 *   **User Responsibility**: You assume full responsibility for your device's configuration and for granting administrative/accessibility permissions to the Application.
@@ -57,6 +57,6 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 
 If you have any questions about these Terms & Conditions, please contact us:
 
-*   **Developer**: Aryan Kumar
+*   **Developer**: Aryan (Tusaryan)
 *   **Email**: [aryankumar040102@gmail.com](mailto:aryankumar040102@gmail.com)
 *   **Jurisdiction**: Ramgarh, Jharkhand, India
