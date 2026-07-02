@@ -16,7 +16,7 @@ By installing and using the Application, you agree to be bound by these Terms. I
 
 ---
 
-## 🛡️ 2. Privacy & Data Protection
+## 2. Privacy & Data Protection
 
 Your privacy is important to us. Our data protection practices are governed by our **[Privacy Policy](file:///Users/aryan/Documents/Projects-and-Resources/TeeTimeAssist/privacy_policy.md)**. 
 *   TeeTime Assist operates fully offline.
@@ -24,14 +24,14 @@ Your privacy is important to us. Our data protection practices are governed by o
 
 ---
 
-## 🚫 3. Disclaimer of Warranties
+## 3. Disclaimer of Warranties
 
 *   **Provided "As-Is"**: The Application is provided to you on an **"AS IS"** and **"AS AVAILABLE"** basis, without warranties of any kind, whether express, implied, statutory, or otherwise.
 *   **No Guarantees**: We make no representations or guarantees that the Application will meet your requirements, run uninterrupted, be compatible with all hardware configurations or Android OS versions, or operate without errors.
 
 ---
 
-## 🛑 4. Limitation of Liability
+## 4. Limitation of Liability
 
 *   **No Developer Liability**: To the maximum extent permitted by applicable law, the developer (Aryan Kumar) shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of data, hardware malfunction, battery degradation, screen burn-in (arising from screen dimming settings), or other losses resulting from:
     1.  Your access to, use of, or inability to use the Application.
@@ -47,7 +47,7 @@ Your privacy is important to us. Our data protection practices are governed by o
 
 ---
 
-## 🔄 6. Changes to These Terms
+## 6. Changes to These Terms
 
 We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is made, we will update the "Last Updated" date at the top of this document. Continued use of the Application following the posting of any changes constitutes acceptance of those changes.
 
